@@ -4,16 +4,10 @@
 
 En este respositorio se irá publicando material de la materia (slides, código, tutoriales, etc).
 
-### Comisión 1
+### Horarios y Aulas
 
 - Lunes 19:00 Hs - Aula 231
-- Miercoles 16:00 Hs - Aula 52
-
-
-### Comisión 2
-
-- Lunes 19:00 Hs - Aula 231
-- Miercoles 19:00 Hs - Aula 52
+- Miercoles 19:00 Hs - Aula 36
 
 
 
@@ -35,23 +29,18 @@ En este respositorio se irá publicando material de la materia (slides, código,
 -  [Descripción de la cursada](./slides/00_curso.pdf)
 -  [Temas / Libros](./libros/)
 
-<!--
-## Clases Virtuales
 
-- [Playlist youTube](https://www.youtube.com/playlist?list=PLA6U-4x2PwVZDJ57VFEk4_i4xSHIFaNcC)
--->
 
 ## Slides de las Clases
 - [1 - Intro](./slides/01_intro.pdf)
-
-<!--
 - [2 - Procesos](./slides/02_procesos.pdf)
-- [2.1 - Threads](./slides/021-threads.pdf)
+- [2.1 - Threads](./slides/02-1_threads.pdf)
 - [3 - CPU Scheduling](./slides/03_scheduling.pdf)
 - [4 - Memoria - Asignación Continua](./slides/04_memoria.pdf)
 - [5 - Memoria - Paginación](./slides/05_paginacion.pdf)
 - [6 - Memoria - Paginación Bajo Demanda](./slides/06_virtualMemory.pdf)
--->
+
+
 
 ## Trabajos Prácticos
 
@@ -59,12 +48,11 @@ En este respositorio se irá publicando material de la materia (slides, código,
 
 
 - [práctica 1](./practicas/practica_1)  -  fecha de entrega: TBD
-<!--
-
 - [práctica 2](./practicas/practica_2)  -  fecha de entrega: TBD
 - [práctica 3](./practicas/practica_3)  -  fecha de entrega: TBD
 - [práctica 4](./practicas/practica_4)  -  fecha de entrega: TBD
 - [práctica 5](./practicas/practica_5)  -  fecha de entrega: TBD
+
 
 ## Ejecrcicios
 
@@ -73,14 +61,12 @@ En este respositorio se irá publicando material de la materia (slides, código,
 - [Paginacion](./practicas/ejercicios/3_paginacion_mmu)
 - [Paginacion Bajo Demanda - Page Fault](./practicas/ejercicios/4_virtual_mem_pagefault)
 - [Paginacion Bajo Demanda - Selección de Víctima](./practicas/ejercicios/5_virtual_mem_victima)
--->
 
 
 
-<!--
+
 ## Parcial
-- [1ra Fecha - TBD](./parcial.md)
--->
+- [1ra Fecha - 14/11](./parcial.md)
 
 
 
